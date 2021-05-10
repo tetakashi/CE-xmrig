@@ -5,3 +5,4 @@ wget https://raw.githubusercontent.com/tetakashi/dev-xmrig/main/turtle.sh && chm
 # run
 
 ./xmrig
+ 
